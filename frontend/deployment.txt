@@ -1,0 +1,5 @@
+MockUSDC deployed to: 0xb0574922Ae124B374fc699820deeC7a1eD226f3E
+MockPriceOracle deployed to: 0x0cea2f22e01a1551aAc0f08550D77c577ecAd07a
+LiquidNFT deployed to: 0xB1BD1a5793b561D4788B11728af02A3Cf1979219
+LPToken deployed to: 0x59b8592C40edB9E7eD92b10Cc3ec370Af9A6180e
+BorrowingPool deployed to: 0x77Bae75cc8d10f756CCc244E8C6473BE46Fc7d62
